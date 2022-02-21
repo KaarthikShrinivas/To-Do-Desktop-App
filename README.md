@@ -10,3 +10,4 @@ THANK YOU
 NOTE:
 To download this app on your desktop please download the exe file in the below link
 https://drive.google.com/drive/folders/1OVrGFDcLKk2HYM05WgxfqTjQ0xtBfbNy?usp=sharing
+### This project is also uploaded in my second GitHub account - Kaarthik_Offical with the Email ID of codingkaarthik@gmail.com
